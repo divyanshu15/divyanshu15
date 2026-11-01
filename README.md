@@ -157,13 +157,14 @@ An Android application that converts RSS feeds into a readable article list.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu15&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu15&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./metrics.svg" alt="GitHub statistics and top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanshu15&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=divyanshu15&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
+
+> The statistics graphic is generated automatically by GitHub Actions and committed to this repository.
 
 ---
 
