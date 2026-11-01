@@ -171,13 +171,35 @@ An Android RSS reader that converts feed content into a readable article list.
 
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub profile metrics" width="100%" />
+<img src="./metrics.svg" alt="GitHub profile overview and language metrics" width="100%" />
+
+</div>
+
+### Coding activity
+
+The charts below are generated from recent public GitHub activity and refreshed automatically.
+
+<div align="center">
+
+<img src="./metrics.habits.svg" alt="Coding activity by hour and day, with recent coding habits" width="100%" />
+
+</div>
+
+### Repository stars
+
+<div align="center">
+
+<img src="./metrics.stargazers.svg" alt="Repository stargazer activity charts" width="100%" />
+
+</div>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=divyanshu15&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=38BDF8&currStreakLabel=C4B5FD" alt="GitHub contribution streak" width="100%" />
 
 </div>
 
-<sub>Profile metrics are refreshed automatically by the GitHub Actions workflow in this repository.</sub>
+<sub>Profile metrics and charts are regenerated daily by GitHub Actions. Activity charts reflect the public events available to GitHub's API.</sub>
 
 ## What I'm exploring
 
