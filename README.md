@@ -16,22 +16,22 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/divyanshu15?style=flat-square&color=3b82f6&label=FOLLOWERS)](https://github.com/divyanshu15?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=divyanshu15&style=flat-square&color=3b82f6&label=PROFILE+VIEWS)](https://github.com/divyanshu15)
-[![Repositories](https://img.shields.io/badge/PROJECTS-8-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/divyanshu15?tab=repositories)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-22-3b82f6?style=flat-square&logo=github&logoColor=white)](https://github.com/divyanshu15?tab=repositories)
 
 </div>
 
-## 👋 About
+## About
 
 I build software across **mobile and web**, with hands-on experience in Android, Flutter, React and Next.js. I’m interested in clean application architecture, useful product experiences and turning ideas into working software.
 
 |  |  |
 |:--|:--|
-| 🎯 **Focus** | Mobile development · Frontend engineering · API integration |
-| 🔭 **Exploring** | AI-assisted development · Interactive 3D · Game development |
+| **Focus** | Mobile development · Frontend engineering · Clean architecture |
+| **Exploring** | AI-assisted development · Interactive 3D · Game development |
 
-## 🚀 Selected work
+## Selected work
 
-<div align="center"><sub><b>8 PROJECTS &nbsp;·&nbsp; MOBILE · WEB · PRODUCTIVITY</b></sub></div>
+<div align="center"><sub><b>8 FEATURED PROJECTS &nbsp;·&nbsp; MOBILE · WEB · PRODUCTIVITY</b></sub></div>
 <br>
 
 <table>
@@ -42,7 +42,7 @@ I build software across **mobile and web**, with hands-on experience in Android,
 
 Browser-based utilities for inspecting and processing images, PDFs, audio, code and text. Built with a local-first approach.
 
-![Next.js](https://img.shields.io/badge/NEXT.JS-6e7681-nextdotjs?style=flat-square&logo=&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178c6-typescript?style=flat-square&logo=&logoColor=white) ![React](https://img.shields.io/badge/REACT-087ea4-react?style=flat-square&logo=&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-087ea4?style=flat-square&logo=react&logoColor=white)
 
 <a href="https://github.com/divyanshu15/nullmark"><b>View repository →</b></a>
 
@@ -53,19 +53,20 @@ Browser-based utilities for inspecting and processing images, PDFs, audio, code 
 
 Flutter app prototype for invoice creation, document scanning, vendor records and EMI calculations, with local data storage.
 
-![Flutter](https://img.shields.io/badge/FLUTTER-0ea5e9-flutter?style=flat-square&logo=&logoColor=white) ![Dart](https://img.shields.io/badge/DART-0175c2-dart?style=flat-square&logo=&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-0f80cc-sqlite?style=flat-square&logo=&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0ea5e9?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-0f80cc?style=flat-square&logo=sqlite&logoColor=white)
 
 <a href="https://github.com/divyanshu15/panji-mobile"><b>View repository →</b></a>
 
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **03 · Coupons / Mobile — ShopSaver**
 
 Coupon application with phone authentication, API integration, reactive UI state and local persistence.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-7f52ff-kotlin?style=flat-square&logo=&logoColor=white) ![Firebase](https://img.shields.io/badge/FIREBASE-f59e0b-firebase?style=flat-square&logo=&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-2e9e5b-android?style=flat-square&logo=&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=flat-square&logo=firebase&logoColor=white) ![Room](https://img.shields.io/badge/Room-2e9e5b?style=flat-square&logo=android&logoColor=white)
 
 <a href="https://github.com/divyanshu15/ShopSaver"><b>View repository →</b></a>
 
@@ -76,19 +77,20 @@ Coupon application with phone authentication, API integration, reactive UI state
 
 Food ordering client covering restaurant discovery, menus, cart management, favorites and order history.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-7f52ff-kotlin?style=flat-square&logo=&logoColor=white) ![Volley](https://img.shields.io/badge/VOLLEY-2e9e5b-android?style=flat-square&logo=&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-2e9e5b-android?style=flat-square&logo=&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white) ![Volley](https://img.shields.io/badge/Volley-2e9e5b?style=flat-square&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/Room-2e9e5b?style=flat-square&logo=android&logoColor=white)
 
 <a href="https://github.com/divyanshu15/Food-Runner"><b>View repository →</b></a>
 
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **05 · Maps / Location — NearByPlaces**
 
 Location-aware place discovery using device location, Google Maps and the Places API.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-7f52ff-kotlin?style=flat-square&logo=&logoColor=white) ![Google_Maps](https://img.shields.io/badge/GOOGLE_MAPS-4285f4-googlemaps?style=flat-square&logo=&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-2e9e5b-android?style=flat-square&logo=&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285f4?style=flat-square&logo=googlemaps&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-2e9e5b?style=flat-square&logo=android&logoColor=white)
 
 <a href="https://github.com/divyanshu15/NearByPlaces"><b>View repository →</b></a>
 
@@ -99,19 +101,20 @@ Location-aware place discovery using device location, Google Maps and the Places
 
 A lightweight grocery list manager structured around MVVM, Room persistence and observable UI state.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-7f52ff-kotlin?style=flat-square&logo=&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-2e9e5b-android?style=flat-square&logo=&logoColor=white) ![LiveData](https://img.shields.io/badge/LIVEDATA-2e9e5b-android?style=flat-square&logo=&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white) ![Room](https://img.shields.io/badge/Room-2e9e5b?style=flat-square&logo=android&logoColor=white) ![LiveData](https://img.shields.io/badge/LiveData-2e9e5b?style=flat-square&logo=android&logoColor=white)
 
 <a href="https://github.com/divyanshu15/GroceryApp"><b>View repository →</b></a>
 
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **07 · News / Android — NewsApp**
 
 News reader with category-based headlines, remote API integration, article thumbnails and in-app browsing.
 
-![Java](https://img.shields.io/badge/JAVA-e76f00-openjdk?style=flat-square&logo=&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-2e9e5b-android?style=flat-square&logo=&logoColor=white) ![Glide](https://img.shields.io/badge/GLIDE-2e9e5b-android?style=flat-square&logo=&logoColor=white)
+![Java](https://img.shields.io/badge/Java-e76f00?style=flat-square&logo=openjdk&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-2e9e5b?style=flat-square&logo=android&logoColor=white) ![Glide](https://img.shields.io/badge/Glide-2e9e5b?style=flat-square&logo=android&logoColor=white)
 
 <a href="https://github.com/divyanshu15/NewsApp"><b>View repository →</b></a>
 
@@ -122,7 +125,7 @@ News reader with category-based headlines, remote API integration, article thumb
 
 RSS-powered reader with feed conversion, article lists, image loading and swipe-to-refresh.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-7f52ff-kotlin?style=flat-square&logo=&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-2e9e5b-android?style=flat-square&logo=&logoColor=white) ![ViewModel](https://img.shields.io/badge/VIEWMODEL-2e9e5b-android?style=flat-square&logo=&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-2e9e5b?style=flat-square&logo=android&logoColor=white) ![ViewModel](https://img.shields.io/badge/ViewModel-2e9e5b?style=flat-square&logo=android&logoColor=white)
 
 <a href="https://github.com/divyanshu15/GFGAssignment"><b>View repository →</b></a>
 
@@ -145,7 +148,7 @@ RSS-powered reader with feed conversion, article lists, image loading and swipe-
 
 </details>
 
-## 🧰 Toolkit
+## Toolkit
 
 | Domain | Technologies |
 |:--|:--|
@@ -160,7 +163,7 @@ RSS-powered reader with feed conversion, article lists, image loading and swipe-
 ![Flutter](https://img.shields.io/badge/Flutter-0ea5e9?style=flat-square&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-087ea4?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-6e7681?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=flat-square&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0f80cc?style=flat-square&logo=sqlite&logoColor=white)
@@ -168,7 +171,7 @@ RSS-powered reader with feed conversion, article lists, image loading and swipe-
 
 </div>
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
@@ -182,18 +185,23 @@ RSS-powered reader with feed conversion, article lists, image loading and swipe-
 
 </div>
 
-## 🌱 Currently exploring
+## Currently exploring
 
 - Scalable application architecture and software quality
 - Modern full-stack product development
 - AI-assisted engineering and automation
 - Interactive 3D experiences and game development
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-divyanshu15-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhdivyanshu1507/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyanshu15.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshu150798@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu15)
+
+<br>
 
 <sub><i>Build useful things. Keep the implementation simple.</i></sub>
 
