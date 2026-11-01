@@ -28,109 +28,109 @@ I build software across **mobile and web**, with hands-on experience in Android,
 
 ## Selected work
 
-A selection of projects from my repositories. Each project is linked directly to its source.
+A curated set of projects. Each card highlights the product, its core functionality and the technologies used.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [01 / NullMark](https://github.com/divyanshu15/nullmark)
+**01 — PRIVACY / WEB**
 
-**Privacy utilities for everyday files**
+### [NullMark ↗](https://github.com/divyanshu15/nullmark)
 
-Browser-based tools for inspecting and processing images, PDFs, audio, code and text.
+Browser-based utilities for inspecting and processing images, PDFs, audio, code and text. Built with a local-first approach.
 
-<code>Next.js</code> <code>React</code> <code>TypeScript</code>
-
-</td>
-<td width="50%" valign="top">
-
-### [02 / Panji Mobile](https://github.com/divyanshu15/panji-mobile)
-
-**Invoice and business workflows**
-
-Flutter prototype with invoice creation, document scanning, vendor records and local persistence.
-
-<code>Flutter</code> <code>Dart</code> <code>SQLite</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [03 / ShopSaver](https://github.com/divyanshu15/ShopSaver)
-
-**Coupon management for Android**
-
-Phone authentication, coupon workflows, API integration and local database storage.
-
-<code>Kotlin</code> <code>Firebase</code> <code>Room</code>
+![Next.js](https://img.shields.io/badge/NEXT.JS-17191c?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-17191c?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/REACT-17191c?style=flat-square&logo=react&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### [04 / Food-Runner](https://github.com/divyanshu15/Food-Runner)
+**02 — BUSINESS / MOBILE**
 
-**Food ordering application**
+### [Panji Mobile ↗](https://github.com/divyanshu15/panji-mobile)
 
-Restaurant discovery, menus, cart, favorites and order history.
+Flutter app prototype for invoice creation, document scanning, vendor records and EMI calculations, with local data storage.
 
-<code>Kotlin</code> <code>Volley</code> <code>Room</code>
+![Flutter](https://img.shields.io/badge/FLUTTER-17191c?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/DART-17191c?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-17191c?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [05 / NearByPlaces](https://github.com/divyanshu15/NearByPlaces)
+**03 — COUPONS / MOBILE**
 
-**Location-based discovery**
+### [ShopSaver ↗](https://github.com/divyanshu15/ShopSaver)
 
-Nearby place discovery using device location, Google Maps and Places API.
+Coupon application with phone authentication, API integration, reactive UI state and local persistence.
 
-<code>Kotlin</code> <code>Google Maps</code> <code>Retrofit</code>
+![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/FIREBASE-17191c?style=flat-square&logo=firebase&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-17191c?style=flat-square&logo=android&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### [06 / GroceryApp](https://github.com/divyanshu15/GroceryApp)
+**04 — FOOD / MOBILE**
 
-**Local grocery manager**
+### [Food-Runner ↗](https://github.com/divyanshu15/Food-Runner)
 
-A lightweight grocery list app built with Android's MVVM architecture and Room persistence.
+Food ordering client covering restaurant discovery, menus, cart management, favorites and order history.
 
-<code>Kotlin</code> <code>Room</code> <code>LiveData</code>
+![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Volley](https://img.shields.io/badge/VOLLEY-17191c?style=flat-square&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-17191c?style=flat-square&logo=android&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [07 / NewsApp](https://github.com/divyanshu15/NewsApp)
+**05 — MAPS / LOCATION**
 
-**Android news reader**
+### [NearByPlaces ↗](https://github.com/divyanshu15/NearByPlaces)
 
-Category-based headlines, API integration, article thumbnails and in-app browsing.
+Location-aware place discovery using device location, Google Maps and the Places API.
 
-<code>Java</code> <code>Retrofit</code> <code>Glide</code>
+![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Google Maps](https://img.shields.io/badge/GOOGLE_MAPS-17191c?style=flat-square&logo=googlemaps&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-17191c?style=flat-square&logo=android&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### [08 / GFGAssignment](https://github.com/divyanshu15/GFGAssignment)
+**06 — PRODUCTIVITY / MOBILE**
 
-**RSS news reader**
+### [GroceryApp ↗](https://github.com/divyanshu15/GroceryApp)
 
-RSS feed integration, article lists, image loading and swipe-to-refresh.
+A lightweight grocery list manager structured around MVVM, Room persistence and observable UI state.
 
-<code>Kotlin</code> <code>Retrofit</code> <code>ViewModel</code>
+![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-17191c?style=flat-square&logo=android&logoColor=white) ![LiveData](https://img.shields.io/badge/LIVEDATA-17191c?style=flat-square&logo=android&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**07 — NEWS / ANDROID**
+
+### [NewsApp ↗](https://github.com/divyanshu15/NewsApp)
+
+News reader with category-based headlines, remote API integration, article thumbnails and in-app browsing.
+
+![Java](https://img.shields.io/badge/JAVA-17191c?style=flat-square&logo=openjdk&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-17191c?style=flat-square&logo=android&logoColor=white) ![Glide](https://img.shields.io/badge/GLIDE-17191c?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**08 — RSS / ANDROID**
+
+### [GFGAssignment ↗](https://github.com/divyanshu15/GFGAssignment)
+
+RSS-powered reader with feed conversion, article lists, image loading and swipe-to-refresh.
+
+![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-17191c?style=flat-square&logo=android&logoColor=white) ![ViewModel](https://img.shields.io/badge/VIEWMODEL-17191c?style=flat-square&logo=android&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>Implementation details</strong></summary>
+<summary><strong>Technical notes across the projects</strong></summary>
 
 - **NullMark:** Local-first file inspection and selected metadata processing.
 - **Panji Mobile:** Invoice creation, scanner flow, vendor records and EMI calculator interface.
@@ -170,21 +170,15 @@ RSS feed integration, article lists, image loading and swipe-to-refresh.
 
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub profile overview and language metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/divyanshu15/divyanshu15/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through the GitHub contribution graph" width="100%" />
 
-### Coding patterns
+<br/>
 
-<img src="./metrics.habits.svg" alt="Coding activity patterns" width="100%" />
-
-### Repository stars
-
-<img src="./metrics.stargazers.svg" alt="Repository stargazer activity" width="100%" />
-
-<img src="https://streak-stats.demolab.com?user=divyanshu15&theme=dark&hide_border=true&background=17191c&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub contribution streak" width="100%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu15&theme=dark&hide_border=true&background=17191c&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)](https://git.io/streak-stats)
 
 </div>
 
-<sub>Metrics are generated by GitHub Actions. Activity reflects the public GitHub data available to the metrics generator.</sub>
+<sub>The contribution snake is refreshed by GitHub Actions. The streak card summarizes public contribution activity.</sub>
 
 ## Currently exploring
 
