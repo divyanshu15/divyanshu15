@@ -28,102 +28,104 @@ I build software across **mobile and web**, with hands-on experience in Android,
 
 ## Selected work
 
-A curated set of projects. Each card highlights the product, its core functionality and the technologies used.
+<div align="center">
+  <sub>PROJECTS &nbsp; / &nbsp; MOBILE · WEB · PRODUCTIVITY</sub>
+</div>
 
-<table>
+<table border="0" cellpadding="12" cellspacing="12">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **01 — PRIVACY / WEB**
 
-### [NullMark ↗](https://github.com/divyanshu15/nullmark)
+<a href="https://github.com/divyanshu15/nullmark"><img src="https://img.shields.io/badge/NullMark-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open NullMark project"/></a>
 
 Browser-based utilities for inspecting and processing images, PDFs, audio, code and text. Built with a local-first approach.
 
-![Next.js](https://img.shields.io/badge/NEXT.JS-17191c?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-17191c?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/REACT-17191c?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-24292f?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-24292f?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/REACT-24292f?style=flat-square&logo=react&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **02 — BUSINESS / MOBILE**
 
-### [Panji Mobile ↗](https://github.com/divyanshu15/panji-mobile)
+<a href="https://github.com/divyanshu15/panji-mobile"><img src="https://img.shields.io/badge/Panji_Mobile-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open Panji Mobile project"/></a>
 
 Flutter app prototype for invoice creation, document scanning, vendor records and EMI calculations, with local data storage.
 
-![Flutter](https://img.shields.io/badge/FLUTTER-17191c?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/DART-17191c?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-17191c?style=flat-square&logo=sqlite&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-24292f?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/DART-24292f?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-24292f?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **03 — COUPONS / MOBILE**
 
-### [ShopSaver ↗](https://github.com/divyanshu15/ShopSaver)
+<a href="https://github.com/divyanshu15/ShopSaver"><img src="https://img.shields.io/badge/ShopSaver-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open ShopSaver project"/></a>
 
 Coupon application with phone authentication, API integration, reactive UI state and local persistence.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/FIREBASE-17191c?style=flat-square&logo=firebase&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-17191c?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-24292f?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/FIREBASE-24292f?style=flat-square&logo=firebase&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-24292f?style=flat-square&logo=android&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **04 — FOOD / MOBILE**
 
-### [Food-Runner ↗](https://github.com/divyanshu15/Food-Runner)
+<a href="https://github.com/divyanshu15/Food-Runner"><img src="https://img.shields.io/badge/Food_Runner-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open Food-Runner project"/></a>
 
 Food ordering client covering restaurant discovery, menus, cart management, favorites and order history.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Volley](https://img.shields.io/badge/VOLLEY-17191c?style=flat-square&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-17191c?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-24292f?style=flat-square&logo=kotlin&logoColor=white) ![Volley](https://img.shields.io/badge/VOLLEY-24292f?style=flat-square&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-24292f?style=flat-square&logo=android&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **05 — MAPS / LOCATION**
 
-### [NearByPlaces ↗](https://github.com/divyanshu15/NearByPlaces)
+<a href="https://github.com/divyanshu15/NearByPlaces"><img src="https://img.shields.io/badge/NearByPlaces-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open NearByPlaces project"/></a>
 
 Location-aware place discovery using device location, Google Maps and the Places API.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Google Maps](https://img.shields.io/badge/GOOGLE_MAPS-17191c?style=flat-square&logo=googlemaps&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-17191c?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-24292f?style=flat-square&logo=kotlin&logoColor=white) ![Google Maps](https://img.shields.io/badge/GOOGLE_MAPS-24292f?style=flat-square&logo=googlemaps&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-24292f?style=flat-square&logo=android&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **06 — PRODUCTIVITY / MOBILE**
 
-### [GroceryApp ↗](https://github.com/divyanshu15/GroceryApp)
+<a href="https://github.com/divyanshu15/GroceryApp"><img src="https://img.shields.io/badge/GroceryApp-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open GroceryApp project"/></a>
 
 A lightweight grocery list manager structured around MVVM, Room persistence and observable UI state.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-17191c?style=flat-square&logo=android&logoColor=white) ![LiveData](https://img.shields.io/badge/LIVEDATA-17191c?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-24292f?style=flat-square&logo=kotlin&logoColor=white) ![Room](https://img.shields.io/badge/ROOM-24292f?style=flat-square&logo=android&logoColor=white) ![LiveData](https://img.shields.io/badge/LIVEDATA-24292f?style=flat-square&logo=android&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **07 — NEWS / ANDROID**
 
-### [NewsApp ↗](https://github.com/divyanshu15/NewsApp)
+<a href="https://github.com/divyanshu15/NewsApp"><img src="https://img.shields.io/badge/NewsApp-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open NewsApp project"/></a>
 
 News reader with category-based headlines, remote API integration, article thumbnails and in-app browsing.
 
-![Java](https://img.shields.io/badge/JAVA-17191c?style=flat-square&logo=openjdk&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-17191c?style=flat-square&logo=android&logoColor=white) ![Glide](https://img.shields.io/badge/GLIDE-17191c?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-24292f?style=flat-square&logo=openjdk&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-24292f?style=flat-square&logo=android&logoColor=white) ![Glide](https://img.shields.io/badge/GLIDE-24292f?style=flat-square&logo=android&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f6f8fa">
 
 **08 — RSS / ANDROID**
 
-### [GFGAssignment ↗](https://github.com/divyanshu15/GFGAssignment)
+<a href="https://github.com/divyanshu15/GFGAssignment"><img src="https://img.shields.io/badge/GFGAssignment-OPEN_PROJECT-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Open GFGAssignment project"/></a>
 
 RSS-powered reader with feed conversion, article lists, image loading and swipe-to-refresh.
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-17191c?style=flat-square&logo=kotlin&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-17191c?style=flat-square&logo=android&logoColor=white) ![ViewModel](https://img.shields.io/badge/VIEWMODEL-17191c?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-24292f?style=flat-square&logo=kotlin&logoColor=white) ![Retrofit](https://img.shields.io/badge/RETROFIT-24292f?style=flat-square&logo=android&logoColor=white) ![ViewModel](https://img.shields.io/badge/VIEWMODEL-24292f?style=flat-square&logo=android&logoColor=white)
 
 </td>
 </tr>
@@ -172,13 +174,9 @@ RSS-powered reader with feed conversion, article lists, image loading and swipe-
 
 <img src="https://raw.githubusercontent.com/divyanshu15/divyanshu15/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through the GitHub contribution graph" width="100%" />
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu15&theme=dark&hide_border=true&background=17191c&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)](https://git.io/streak-stats)
-
 </div>
 
-<sub>The contribution snake is refreshed by GitHub Actions. The streak card summarizes public contribution activity.</sub>
+<sub>Contribution snake refreshed daily by GitHub Actions.</sub>
 
 ## Currently exploring
 
