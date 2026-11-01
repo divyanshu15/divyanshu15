@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Divyanshu Singh — Software Developer</title>
+  <desc id="desc">A dark, minimal developer profile banner with blue and violet gradient accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080d18"/><stop offset="1" stop-color="#111a2c"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset=".52" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8aa4ca" stroke-opacity=".09"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="75" r="110" fill="#6366f1" opacity=".18" filter="url(#glow)"/>
+  <circle cx="940" cy="290" r="90" fill="#0ea5e9" opacity=".15" filter="url(#glow)"/>
+  <path d="M64 72h58" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="64" y="145" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Divyanshu Singh</text>
+  <text x="66" y="194" fill="#b9c7dc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Software Developer · Mobile &amp; Full-Stack</text>
+  <text x="66" y="250" fill="#8fa3bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Building useful products across mobile, web and emerging technologies.</text>
+  <g transform="translate(850 105)" fill="none" stroke="url(#accent)" stroke-width="3">
+    <rect x="0" y="0" width="220" height="132" rx="18" opacity=".9"/>
+    <path d="M70 47l-25 20 25 20M150 47l25 20-25 20M127 37l-30 60" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25 108h170" stroke-opacity=".35"/>
+    <circle cx="26" cy="22" r="4" fill="#38bdf8" stroke="none"/><circle cx="42" cy="22" r="4" fill="#818cf8" stroke="none"/><circle cx="58" cy="22" r="4" fill="#c084fc" stroke="none"/>
+  </g>
+  <text x="66" y="306" fill="#7dd3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">FLUTTER  /  ANDROID  /  REACT  /  NEXT.JS</text>
+</svg>
